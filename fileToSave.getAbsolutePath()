@@ -1,0 +1,26 @@
+<list>
+  <Rectangle>
+    <position>
+      <x>172</x>
+      <y>201</y>
+    </position>
+    <width>262</width>
+    <height>209</height>
+  </Rectangle>
+  <Rectangle>
+    <position>
+      <x>761</x>
+      <y>258</y>
+    </position>
+    <width>266</width>
+    <height>229</height>
+  </Rectangle>
+  <Rectangle>
+    <position>
+      <x>514</x>
+      <y>464</y>
+    </position>
+    <width>232</width>
+    <height>105</height>
+  </Rectangle>
+</list>
